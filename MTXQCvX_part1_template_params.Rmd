@@ -1,15 +1,15 @@
 ---
-title: 'MTXQCvX2 - Part1: pSIRM in Macrophage differentiation (13C-Gln)'
+title: 'MTXQCvX2 - Part1: pSIRM of L-GA Treated SH-SY5Y cells for 24 hours (13C-Glc)'
 author:
-- affiliation: Mueller Lab, MDC Berlin-Buch
-  name: Sabrina Geisberger
 - affiliation: Kempa Lab, BIMSB/MDC Berlin-Buch
-  name: Christin Zasada
+  name: Martin Forbes
+- affiliation: 
+  name: 
 params:
   spath:
     input: text
     label: "Run on MTXQC-subfolder:"
-    value: "gln_lab2"
+    value: "sh_psirm"
   data:
     input: select
     choices: [maui, metmax]

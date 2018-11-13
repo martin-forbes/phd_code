@@ -1,5 +1,5 @@
 ---
-title: 'MTXQCvX2 - Experimental Setup - PROJECT TITLE'
+title: 'MTXQCvX2 - Experimental Setup - pSIRM of L-GA Treated SH-SY5Y cells for 24 hours (13C-Glc)'
 author:
 - affiliation: LAB, LAB LOCATION 
   name: NAME ONE 
@@ -84,7 +84,7 @@ biblio-style: apsr
 thanks: Kempa Lab - MTXQCvX ExperimentalSetup, provided by Ch. Zasada, processed '`r format(Sys.Date(), "%B %d, %Y")`'
 abstract: This document provides an evaluation of GC-MS derived metabolomics data.
   It asseses GC-MS performance, the absolute quantification and the
-  stable isotope incorporation. ADD HERE FURTHER PROJECT RELEVANT FACTS.
+  stable isotope incorporation. Unfortunately, only glucose incorporation was included due to '4mM' Glutamine and NEAA being present in the media, next time we will use '2mM' Glutamine.
 ---
 
 ```{r setup_output, echo=FALSE}
